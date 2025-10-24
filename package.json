@@ -1,0 +1,21 @@
+{
+	"name": "vibeos",
+	"version": "1",
+	"modules": {
+		"MVC": "/modules/mvc/index.js",
+		"admin": "/modules/apps/admin/index.js",
+		"uix": "/modules/uix/index.js",
+		"icon-lucide": "/modules/icon-lucide/index.js"
+	},
+	"settings": {
+		"name": "VibeOS"
+	},
+	"theme": {
+		"background": {
+			"color": "#e7e5e4"
+		},
+		"font": {
+			"family": "'Manrope'"
+		}
+	}
+}
